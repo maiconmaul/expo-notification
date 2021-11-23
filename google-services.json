@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544966806658",
+    "project_id": "reciclalog-development",
+    "storage_bucket": "reciclalog-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544966806658:android:9b33640de810e0d471f89b",
+        "android_client_info": {
+          "package_name": "com.maiconmaul.exponotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544966806658-rhgp181kmomi9p1f1b59f54u1327fr9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1_yymERjLQohjYJukcjKRsoHjrws4kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544966806658-rhgp181kmomi9p1f1b59f54u1327fr9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
